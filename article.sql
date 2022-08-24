@@ -42,8 +42,8 @@ CREATE TABLE `post` (
 --
 
 INSERT INTO `post` (`id`, `Title`, `Content`, `Category`, `Created_date`, `Update_date`, `Status`) VALUES
-(1, 'tes', 'tes', 'tes', '2021-12-16 09:35:02', '2021-12-16 09:35:02', 'Publish'),
-(2, 'tes1', 'tes1', 'tes1', '2021-12-16 09:35:02', '2021-12-16 09:35:02', 'Publish');
+(1, 'ROTI BAKAR BANDUNG TENYATA TIDAK MEMBAKAR BANDUNG', 'KULINER', 'BERITA', '2022-08-16 09:35:02', '2021-12-16 09:35:02', 'Publish'),
+(2, 'AYAM GORENG PAK RAHMAT TERNYATA MENGUNAKAN TEPUNG', 'KULINER', 'BERITA', '2022-08-16 09:35:02', '2021-12-16 09:35:02', 'Publish');
 
 --
 -- Indexes for dumped tables
